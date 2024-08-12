@@ -13,7 +13,7 @@ from utils.scripts import format_exc
 
 # from utils.config import GEMINI_KEY
 
-API_KEY="your gemini api key here"
+API_KEY="AIzaSyCQEaxH_tpA_9tiDvTHSN32jtA9xoVNptA"
 
 
 # genai.configure(api_key=GEMINI_KEY)
